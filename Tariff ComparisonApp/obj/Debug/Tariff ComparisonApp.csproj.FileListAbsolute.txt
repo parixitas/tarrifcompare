@@ -1,0 +1,7 @@
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\bin\Debug\Tariff ComparisonApp.exe.config
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\bin\Debug\Tariff ComparisonApp.exe
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\bin\Debug\Tariff ComparisonApp.pdb
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\obj\Debug\Tariff ComparisonApp.csprojAssemblyReference.cache
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\obj\Debug\Tariff ComparisonApp.csproj.CoreCompileInputs.cache
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\obj\Debug\Tariff ComparisonApp.exe
+E:\Dharmishtha\Live_Project\Tariff Comparison\New folder\Tariff ComparisonApp\Tariff ComparisonApp\obj\Debug\Tariff ComparisonApp.pdb
